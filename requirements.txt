@@ -1,0 +1,5 @@
+matplotlib==3.7.2
+MetaTrader5==5.0.45
+numpy==1.23.4
+pandas==2.0.3
+python-decouple==3.8
